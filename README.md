@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanmayhedau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmayhedau" height="30" width="40" /></a>
+<a href="https://twitter.com/tanmayhedau" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmayhedau" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tanmay-hedau-ab0851242/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay hedau" height="30" width="40" /></a>
 <a href="https://instagram.com/tanmay_hedau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_hedau" height="30" width="40" /></a>
 </p>

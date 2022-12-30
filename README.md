@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayhedau&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayhedau" /> </p>
 
-- 🔭 I’m currently working on [Open-To-Intern](https://github.com/tanmayhedau/Open-To-Intern/tree/project/OpenToIntern)
+- 🔭 I’m currently working and upskilling in Frontend technologies like **react**
 
 - 🌱 I’m currently learning **node.js**
 

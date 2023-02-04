@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working and upskilling in Frontend technologies like **react**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m  **MERN stack developer**
 
 - 👯 I’m looking to collaborate on **great companies**
 

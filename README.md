@@ -1,5 +1,5 @@
 ![MasterHead](https://i1.wp.com/mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif)
-<h1 align="center">Hi 👋, I'm tanmayhedau</h1>
+<h1 align="center">Hi 👋, I'm Tanmay Hedau</h1>
 <h3 align="center">A Zero Degree Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif">
 
